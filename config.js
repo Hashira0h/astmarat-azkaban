@@ -7,8 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['201206178781', 'ɢᴏᴊᴏ', true],
-  ['201159250900', 'ɪᴛᴏsʜɪ', true], 
+  ['201206178781', 'ɢᴏᴊᴏ', true], 
   [''] 
 ] //Number of owners
 
@@ -47,7 +46,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 𝐌𝐈𝐊𝐀𝐒𝐀 𝐁𝐎𝐓'
+global.botname = '𝐌𝐈𝐊𝐀𝐒𝐀 𝐁𝐎𝐓'
 global.premium = 'true'
 global.packname = '𝐌𝐈𝐊𝐀𝐒𝐀 𝐁𝐎𝐓' 
 global.author = 'صلي ؏ النبي' 
